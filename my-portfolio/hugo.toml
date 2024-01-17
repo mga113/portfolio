@@ -1,0 +1,74 @@
+baseURL = 'https://mga113.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-theme-nix"
+
+
+[menu]
+
+  [[menu.header]]
+    name = "Projects"
+    weight = 4
+    url = "projects"
+
+  [[menu.header]]
+    name = "About"
+    weight = 2
+    url = "about"
+  
+   [[menu.header]]
+    name = "Home"
+    weight = 1
+    url = "/"
+  
+
+[params]
+  GithubID = "mga113"
+  LinkedInID = "mrinal-goshalia/"
+  Name = "Mrinal Goshalia"
+  Pronouns= "> Pronouns: She/her"
+
+
+  HeaderUsername = ""
+  HeaderHostname = "Mrinal Goshalia"
+  HomePage = "Home"
+
+
+
+  Email = "mrinal_goshalia@sfu.ca"
+  CvURL = "https://drive.google.com/file/d/1pQrg0LYQx8E6JPcewOMDp1sD7VtG6iBw/view?usp=sharing"
+
+  Major = "Computing Science "
+
+  About = "@Simon Fraser University"
+  ProfilePicture = "/MainProfile.png"
+  Favicon = "/MainProfile.png"
+  AboutImg = "/aboutMeProfile.png"
+  ProjectsPfpImg = "/projectspfp.png"
+  SudokuImg = "/sudoku.png"
+  LibraryDb = "/libraryDb.jpg"
+  EnergyTech = "/energytech.jpg"
+  Cybersecurity = "/cybersecurity.jpg"
+  MoodMeter = "/moodMeter.jpg"
+  ContactMe = "/contactMe.png"
+
+  AndroidStudioImg = "/androidStudioLogo.png"
+  AngularImg = "/angularLogo.png"
+  JupyterImg = "/jupyterNotebookLogo.png"
+  PandasImg = "/pandasLogo.png"
+  PythonImg = "/pythonLogo.png"
+  CssImg = "/css3Logo.png"
+  HtmlImg = "/html5Logo.png"
+  JavaImg = "/javaLogo.png"
+  JsImg = "/jsLogo.png"
+  CplusplusImg = "/CplusplusLogo.png"
+  SparkImg = "/apacheSparkLogo.png"
+  LinuxImg = "/linuxLogo.png"
+  Office365Img = "/office365Logo.png"
+  RImg = "/rLogo.png"
+  SqlImg = "/sqlLogo.png"
+  UbuntuImg = "/ubuntuLogo.png"
+  VsCodeImg = "/vsCodeLogo.png"
+  WindowsImg = "/windowsLogo.png"
+  WiresharkImg = "/wiresharkLogo.png"
+  GitImg = "/gitLogo.png"

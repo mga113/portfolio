@@ -1,0 +1,4 @@
+[submodule "my-portfolio/public"]
+	path = my-portfolio/public
+	url = https://github.com/mga113/mga113.github.io.git
+	branch = main
